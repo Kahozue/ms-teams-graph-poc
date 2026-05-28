@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+output/*.json
+!output/.gitkeep
+start.txt
+README_run.md
