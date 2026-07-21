@@ -75,3 +75,7 @@ This PoC is the data-collection proof-of-concept for a two-stage privacy-preserv
 ```
 Teams API → this script → PII filter (thesis-pii-pipeline) → LLM risk scoring → admin-console (thesis-admin-console)
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
